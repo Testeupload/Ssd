@@ -1,0 +1,11 @@
+{
+  "name": "backend-vercel-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "pusher": "^5.0.0"
+  },
+  "scripts": {
+    "build": "echo 'Build completed'"
+  }
+}
